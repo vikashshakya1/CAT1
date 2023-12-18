@@ -2,7 +2,7 @@
 # Design the User Interface (HTML Pages) for KFC.
 ## Home page 
 ## Listing of various options 
-# #Viewing the order summary
+## Viewing the order summary
 ## Adding a Blog Page for viewing the detailed description of the product
 ## The above-mentioned pages are minimum requirements; you may add more if required.
 
